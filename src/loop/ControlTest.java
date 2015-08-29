@@ -1,4 +1,4 @@
-package loops;
+package loop;
 
 /**
  * Created by a.markov on 8/28/2015.
@@ -17,6 +17,7 @@ public class ControlTest {
         } else {
             p = d > s ? (a*(d-s)):(b*(s-d));
             System.out.println("Price = " + p);
+
         }
 
     }
