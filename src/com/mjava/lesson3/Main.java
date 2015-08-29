@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Enter digits that will be sum. Maximum allowed value: 999999999 ");
         int n = scanner.nextInt();
 
-        if (MAX_DIGITS<=999999999){
+        if (n<=999999999){
             int [] a = new int[MAX_DIGITS];
             int tmp = 0;
             for (int i = MAX_DIGITS - 1; i >= 0; i-- ){
