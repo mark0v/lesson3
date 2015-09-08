@@ -26,7 +26,7 @@ public class NoDuplicates {
 
 
         }
-
+        System.out.println("I dont know why last B is not typing. :( ");
 
     }
 }
