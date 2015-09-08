@@ -41,7 +41,7 @@ public class Simpleexample extends JFrame {
       */
         gr2d.setPaint(Color.YELLOW);
         gr2d.drawRoundRect(200, 50, 200, 300, 200, 400);
-        gr2d.setPaint(Color.DARK_GRAY);
+        //gr2d.setPaint(Color.DARK_GRAY);
     }
 
    /* public void paint(Graphics g) {
