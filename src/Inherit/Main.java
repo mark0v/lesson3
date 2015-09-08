@@ -1,17 +1,16 @@
 package Inherit;
 
-import java.awt.BasicStroke;
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.Polygon;
-import javax.swing.JFrame;
 import java.awt.*;
 
 public class Main {
 
     public static void main(String args[]) {
-        Circle circle = new Circle();
+
+        Figure app = new Circle();
+        Figure app2 = new Tringle();
+        Figure app3 = new Rectangle();
+       // System.out.print("Rectangle area equals: " + app3.calcArea());
+
 
     }
 }
