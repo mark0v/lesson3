@@ -23,8 +23,6 @@ public class NoDuplicates {
             } else {
                 tmp++;
             }
-
-
         }
         System.out.println("I dont know why last B is not typing. :( ");
 
